@@ -1,9 +1,5 @@
-*.log
-*.pyc
-*.tmproj
-*~
-.project
-*#
-.#*
-*.swp
-node_modules
+.idea/
+target/
+
+.java-version
+.DS_Store
